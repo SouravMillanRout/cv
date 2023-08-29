@@ -1,0 +1,27 @@
+body>h1{
+    text-align: center;
+}
+body>h2{
+    text-align: center;
+}
+body>h6{
+    text-align: center;
+}
+body{
+    background: linear-gradient(to bottom,#ff6e7f,#bfe9ff);
+}
+body>h5{
+    text-align: center;
+}
+body>h5,h4{
+    display: inline;
+}
+body>#pro{
+    text-align: center;
+}
+hr{
+border-style: dotted none none ;
+width: 10%;
+border-width: 6px;
+border-color:grey;
+}
