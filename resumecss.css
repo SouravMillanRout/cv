@@ -1,27 +1,57 @@
-body>h1{
+ a{
+    margin: 5px;
+    /* text-decoration: none; */
+ }
+#objective{
+    text-align: left;
+ }
+ #contact{
+    /* margin: 10px; */
     text-align: center;
-}
-body>h2{
+ }
+ #connect{
     text-align: center;
-}
-body>h6{
+ }
+ /* #education{
     text-align: center;
+ } */
+ #education2{
+    text-align: center;
+ }
+ #name{
+    text-align: center;
+    color: aquamarine;
 }
+#obj{
+    text-align: center;
+    color: aquamarine;
+}
+/* h6{
+    text-align: center; */
+/* } */
 body{
     background: linear-gradient(to bottom,#ff6e7f,#bfe9ff);
+    /* color: antiquewhite; */
 }
-body>h5{
+/* h5{
     text-align: center;
-}
-body>h5,h4{
-    display: inline;
-}
+} */
+ /* h5,h4{
+    /* display: inline; */
+    /* text-align: center; */
+/* } */ 
 body>#pro{
     text-align: center;
 }
+/* td{
+    text-align: center;
+} */
 hr{
 border-style: dotted none none ;
 width: 10%;
 border-width: 6px;
 border-color:grey;
+}
+p{
+    text-align: center;
 }
